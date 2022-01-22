@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vaibhavi0214
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning in fy bsc cs 
-- 💞️ I’m looking to collaborate on c programming
+- 💞️ I’m looking to collaborate on some projects related to data science
 - 📫 How to reach me vaibhavibondre10@gmail.com
 
 <!---
